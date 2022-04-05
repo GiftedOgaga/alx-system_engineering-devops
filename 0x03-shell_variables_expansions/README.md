@@ -1,1 +1,1 @@
-expansion scripts
+expansion script
